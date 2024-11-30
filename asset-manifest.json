@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fluffy-octo-spoon/static/css/main.f855e6bc.css",
+    "main.js": "/fluffy-octo-spoon/static/js/main.db0d2c35.js",
+    "static/js/453.2c9a5139.chunk.js": "/fluffy-octo-spoon/static/js/453.2c9a5139.chunk.js",
+    "index.html": "/fluffy-octo-spoon/index.html",
+    "main.f855e6bc.css.map": "/fluffy-octo-spoon/static/css/main.f855e6bc.css.map",
+    "main.db0d2c35.js.map": "/fluffy-octo-spoon/static/js/main.db0d2c35.js.map",
+    "453.2c9a5139.chunk.js.map": "/fluffy-octo-spoon/static/js/453.2c9a5139.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.db0d2c35.js"
+  ]
+}
